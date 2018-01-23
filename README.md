@@ -13,3 +13,8 @@ In this repository, I will save my all android project code and also document wh
   it takes time to finish everything. Take some time. Glad, you finish it. High Five!
 </p>
 
+<h1>LinearLayout</h1>
+<p>
+You can't see the linear or any layout. In the top of the layout view situated. Everything comes from View.
+
+</p>
